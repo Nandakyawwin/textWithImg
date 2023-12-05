@@ -1,0 +1,22 @@
+{
+  "name": "textimg",
+  "version": "0.0.1",
+  "description": "textWithimg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nandakyawwin/textWithImg.git"
+  },
+  "keywords": [
+    "textWithimg"
+  ],
+  "author": "Nanda Kyaw Win",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nandakyawwin/textWithImg/issues"
+  },
+  "homepage": "https://github.com/Nandakyawwin/textWithImg#readme"
+}
